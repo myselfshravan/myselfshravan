@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a></h1>
 <img width="40%" align="right"   ="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F01%2Fcanva-photo-editor-8-7.jpg" >
 
 A bit about Myself, I am <b>Shravan</b> pursuing my <b>Computer Science Degree with AI & ML</b> from <b>M S Ramaiah Institute of Technology</b>, Currently in my First-Year of B.Tech. As of now, I am focused on <b>web development, Artificial intelligence and Machine Learning </b> but still, wish to explore many fields. ⚡
@@ -13,14 +14,13 @@ A bit about Myself, I am <b>Shravan</b> pursuing my <b>Computer Science Degree w
 <h1>Technical Skills 🛠</h1>
    
 I have learned web-development and having understanding of HTML, CSS & Javascript. 
-<br>Tech: Artificial intelligence, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
-Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+<br>Techs that interests me: Artificial intelligence, Machine learning, Deep learning, NLP.<br>
+Techs that I'm familiar: ReactJs, NodeJs, Firebase, Flutter, Figma and Canva.
+Known Languages: Python, C, HTML5, JavaScript, and CSS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -37,9 +37,10 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+| [Websites List](https://myselfshravan.github.io/mywebsites/)     | List of Websites that I have made..
 
-<h1 align="center">Let's Get Connected</h1>
+<h1 align="center">Let's Connect</h1>
 
 Recently I have started a Community to help my fellow mates. Join the Telegram Channel in which I will try to share my Knowledge and Resources. I am active on Linkedin and Instagram as well. You can reach out to me I will be happy to help you.</p>
 
