@@ -44,16 +44,25 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 Recently I have started a Community to help my fellow mates. Join the Telegram Channel in which I will try to share my Knowledge and Resources. I am active on Linkedin and Instagram as well. You can reach out to me I will be happy to help you.</p>
 
-<div align="center">
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=myselfshravan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myselfshravan&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfshravan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=myselfshravan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-This paste expires in <1 hour. Public IP access. Share whatever you see with others in seconds with Context. Terms of ServiceReport this
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=githubhosting&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=githubhosting&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<div align="center">
 <a  href="https://https://www.youtube.com/channel/UC5NNBFQqhbuU2f5wprDVaVg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a  href="https://www.linkedin.com/in/shravanrevanna" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shravanrevanna@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
