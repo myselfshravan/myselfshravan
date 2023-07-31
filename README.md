@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Heyy <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a></h1>
-<img width="40%" align="right" src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F01%2Fcanva-photo-editor-8-7.jpg" >
+<img width="40%" align="right"   ="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F01%2Fcanva-photo-editor-8-7.jpg" >
 
 A bit about myself, I am <b>Shravan</b> pursuing my <b>Computer Science Degree with AI & ML</b> from <b>M S Ramaiah Institute of Technology</b>, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Deep Learning and Trying to tinker arround with LLMs </b>and, wish to explore many fields related to AI and ML. ⚡
 
