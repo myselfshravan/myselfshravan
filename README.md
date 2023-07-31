@@ -1,21 +1,22 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">Heyy <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a></h1>
-<img width="40%" align="right"   ="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F01%2Fcanva-photo-editor-8-7.jpg" >
+# <div align="center">Heyy <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a>
 
 A bit about myself, I am <b>Shravan</b> pursuing my <b>Computer Science Degree with AI & ML</b> from <b>M S Ramaiah Institute of Technology</b>, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Deep Learning and Trying to tinker arround with LLMs </b>and, wish to explore many fields related to AI and ML. ⚡
 
 <h3 align="center">Full-Stack Web Developer | Artificial intelligence enthusiast | Love to play with latest AI tools.</h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=myselfshravan&label=Profile%20views&color=6805D3&style=flat" alt="myselfshravan" /> </p></h3>
-   <div align="center">
 
-<h1>Technical Skills 🛠</h1>
+## Technical Skills 🛠
 
-I have learned web-development and having understanding of HTML, CSS & Javascript.
-<br>Techs that interests me: Artificial intelligence, Machine learning, Deep learning, NLP.<br>
-Techs that I'm familiar: ReactJs, NodeJs, Firebase, Flutter, Figma and Canva.
-Known Languages: Python, C, HTML5, JavaScript, and CSS.
+- Programming Languages: Python, C
+- Web Development: HTML5, CSS3, JavaScript, ReactJS
+- Back-End: Node.js, Firebase
+- Mobile Development: Flutter
+- Design Tools: Figma, Canva
+- Version Control: Git
+- IDE: Visual Studio Code
 
 <p align="center">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
