@@ -2,7 +2,7 @@
 
 # <div align="center">Heyy <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a>
 
-A bit about myself, I am <b>Shravan</b> pursuing my <b>Computer Science Degree with AI & ML</b> from <b>M S Ramaiah Institute of Technology</b>, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Deep Learning and Trying to tinker arround with LLMs </b>and, wish to explore many fields related to AI and ML. ⚡
+A bit about myself, I am **Shrava** pursuing my **Computer Science Degree with AI & M** from **M S Ramaiah Institute of Technolog**, Currently in my Second-Year of B.Tech. As of now, I am focused on **Deep Learning and Trying to tinker arround with LLMs**and, wish to explore many fields related to AI and ML. ⚡
 
 <h3 align="center">Full-Stack Web Developer | Artificial intelligence enthusiast | Love to play with latest AI tools.</h3>
 
@@ -18,27 +18,28 @@ A bit about myself, I am <b>Shravan</b> pursuing my <b>Computer Science Degree w
 - Version Control: Git
 - IDE: Visual Studio Code
 
-<p align="center">
+<div align="center">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></p>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
 I believe in implementing the knowledge which I have. Projects play a major role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my projects.
 
-<h1 align="center">Projects</h1>
+## Projects
 
-| Project Name      | Description |
-| :---:        |    :----   |  
-| [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
-| [Websites List](https://myselfshravan.github.io/mywebsites/)     | List of Websites that I have made..
+Let's have a look at some of my noteworthy projects:
 
-<h1 align="center">Let's Connect</h1>
+1. [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/): A showcase of my skills, built with HTML5, CSS3, JavaScript, and jQuery.
+2. [Websites List](https://myselfshravan.github.io/mywebsites/): A collection of websites I have developed.
 
-Recently I have started a Community to help my fellow mates. Join the Telegram Channel in which I will try to share my Knowledge and Resources. I am active on Linkedin and Instagram as well. You can reach out to me I will be happy to help you.</p>
+## Let's Connect
+
+I'm actively sharing my knowledge and resources on my [Telegram Channel](https://telegram.me/ComputerScienceStudentsClub). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shravanrevanna) and [Instagram](https://www.instagram.com/shravanrevanna). I'm always happy to help!
 
 ## 📊 GitHub Stats of Shravan
 

@@ -1,8 +1,8 @@
 {
     "MD033": {
-      "allowed_elements": [
-        "nobr",
-        "sup"
-      ]
+        "allowed_elements": [
+            "nobr",
+            "sup"
+        ]
     }
-  }
+}
