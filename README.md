@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# Heyy <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a>
+<h1 align="center">  I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a> </h1>
 
-A bit about myself, I am **Shrava** pursuing my **Computer Science Degree with AI & M** from **M S Ramaiah Institute of Technolog**, Currently in my Second-Year of B.Tech. As of now, I am focused on **Deep Learning and Trying to tinker arround with LLMs**and, wish to explore many fields related to AI and ML. ⚡
+A bit about myself, I am **Shrava** pursuing my **Computer Science Degree with AI & M** from **M S Ramaiah Institute of Technolog**, Currently in my Second-Year of B.Tech. As of now, I am focused on **Deep Learning and Trying to tinker around with LLMs**and, wish to explore many fields related to AI and ML. ⚡
 
 <h3 align="center">Full-Stack Web Developer | Generative-AI enthusiast | Love to play with latest AI tools.</h3>
 
