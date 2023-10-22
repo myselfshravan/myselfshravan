@@ -1,8 +1,14 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# Heyy <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a>
+# 👋 Heyy , I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a>
 
-A bit about myself, I am **Shrava** pursuing my **Computer Science Degree with AI & M** from **M S Ramaiah Institute of Technolog**, Currently in my Second-Year of B.Tech. As of now, I am focused on **Deep Learning and Trying to tinker arround with LLMs**and, wish to explore many fields related to AI and ML. ⚡
+A bit about myself,
+
+🎓 Currently in my third year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Computer Science with a specialization in AI & ML.
+
+🔍 My current fascination lies in **Deep Learning**. I'm actively experimenting with **Large Language Models (LLMs)** and am passionate about diving deep into the intricate world of AI and ML.
+
+🚀 My goal? To explore and contribute to a multitude of AI and ML fields.
 
 <h3 align="center">Full-Stack Web Developer | Generative-AI enthusiast | Love to play with latest AI tools.</h3>
 
