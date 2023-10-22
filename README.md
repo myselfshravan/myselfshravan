@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# 👋 Heyy , I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a>
+<h1 align="center">  I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a> </h1>
 
 A bit about myself,
 
