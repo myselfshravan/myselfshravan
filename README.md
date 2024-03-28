@@ -16,10 +16,9 @@ A bit about myself,
 
 ## Technical Skills 🛠
 
-- Programming Languages: Python, C
+- Programming Languages: Python, C++
 - Web Development: HTML5, CSS3, JavaScript, ReactJS
 - Back-End: Node.js, Firebase
-- Mobile Development: Flutter
 - Design Tools: Figma, Canva
 - Version Control: Git
 - IDE: Visual Studio Code
@@ -47,29 +46,51 @@ Let's have a look at some of my noteworthy projects:
 
 I'm actively sharing my knowledge and resources on my [Telegram Channel](https://telegram.me/ComputerScienceStudentsClub). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shravanrevanna) and [Instagram](https://www.instagram.com/shravanrevanna). I'm always happy to help!
 
+<div align="center">
+
 ## 📊 GitHub Stats of Shravan
 
-![](https://github-readme-stats.vercel.app/api?username=myselfshravan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=myselfshravan&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfshravan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=myselfshravan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfshravan&theme=dracula&hide_border=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfshravan&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<div align="center">
 
 ## 🏆 GitHub Trophies of Shravan
 
-![](https://github-profile-trophy.vercel.app/?username=myselfshravan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=myselfshravan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 GitHub Trophies of GithubHosting
 
-![](https://github-profile-trophy.vercel.app/?username=githubhosting&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=githubhosting&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<div align="center">
 
 ## 📊 GitHub Stats of GithubHosting
 
-![](https://github-readme-stats.vercel.app/api?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=githubhosting&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=githubhosting&theme=dracula&hide_border=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubhosting&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myselfshravan&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+![Snake animation](https://github.com/myselfshravan/myselfshravan/blob/snake/github-contribution-grid-snake-dark.svg)
+
+---
 
 ## Find me Here
 
