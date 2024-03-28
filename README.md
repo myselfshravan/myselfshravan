@@ -21,7 +21,7 @@ A bit about myself,
 - Back-End: Node.js, Firebase
 - Design Tools: Figma, Canva
 - Version Control: Git
-- IDE: Visual Studio Code
+- IDE: Visual Studio Code, PyCharm
 
 <div align="center">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -33,6 +33,8 @@ A bit about myself,
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
+---
+
 I believe in implementing the knowledge which I have. Projects play a major role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my projects.
 
 ## Projects
@@ -41,6 +43,8 @@ Let's have a look at some of my noteworthy projects:
 
 1. [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/): A showcase of my skills, built with HTML5, CSS3, JavaScript, and jQuery.
 2. [Websites List](https://myselfshravan.github.io/mywebsites/): A collection of websites I have developed.
+3. [AI Meal Planner](https://ai-meal-planner.streamlit.app): This project is a meal planning app that generates personalized meal plans based on a user's caloric needs and Personal Information. It utilizes natural language processing to generate creative meal ideas using ingredients selected by the greedy algorithm.
+4. [NoteRep](https://noterep.vercel.app): A platform enabling college students to share notes and study materials, garnering over 60,000 views.
 
 ## Let's Connect
 
