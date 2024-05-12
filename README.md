@@ -16,11 +16,11 @@ A bit about myself,
 
 ## Technical Skills 🛠
 
-- Programming Languages: Python, C++
-- Web Development: HTML5, CSS3, JavaScript, ReactJS
+- Programming Languages: Python, C++, Java
+- Web Development: HTML5, CSS3, JavaScript, ReactJS, NextJS, Tailwind CSS
 - Back-End: Node.js, Firebase
 - Design Tools: Figma, Canva
-- Version Control: Git
+- Version Control: Git, GitHub
 - IDE: Visual Studio Code, PyCharm
 
 <div align="center">
@@ -41,14 +41,15 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 Let's have a look at some of my noteworthy projects:
 
-1. [My Portfolio Website](https://myselfshravan.github.io/shravan.github.io/): A showcase of my skills, built with HTML5, CSS3, JavaScript, and jQuery.
-2. [Websites List](https://myselfshravan.github.io/mywebsites/): A collection of websites I have developed.
-3. [AI Meal Planner](https://ai-meal-planner.streamlit.app): This project is a meal planning app that generates personalized meal plans based on a user's caloric needs and Personal Information. It utilizes natural language processing to generate creative meal ideas using ingredients selected by the greedy algorithm.
+1. [My Portfolio Website](https://myselfshravan.github.io): This site is a comprehensive display of my web development expertise, constructed using HTML5, CSS3, JavaScript, and jQuery. It serves as a vibrant showcase of my technical skills and creative design capabilities.
+2. [Websites List](https://myselfshravan.github.io/mywebsites): Here you'll find a portfolio of websites I've crafted, highlighting my versatility and commitment to delivering engaging digital experiences.
+3. [AI Meal Planner](https://ai-meal-planner.streamlit.app): This project is a meal planning app that uses LLM to offer personalized meal suggestions. This tool calculates nutritional needs and utilizes a sophisticated algorithm to recommend meals based on personal dietary preferences.
 4. [NoteRep](https://noterep.vercel.app): A platform enabling college students to share notes and study materials, garnering over 60,000 views.
+5. [Fastiq](https://fastiq.vercel.app): It is a versatile platform designed for developers, offering streamlined access to a wide array of AI model providers alongside a rich suite of customizable prompt templates. This allows for dynamic and tailored AI interactions, catering to specific development needs and enhancing user engagement with intelligent applications.
 
 ## Let's Connect
 
-I'm actively sharing my knowledge and resources on my [Telegram Channel](https://telegram.me/ComputerScienceStudentsClub). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shravanrevanna) and [Instagram](https://www.instagram.com/shravanrevanna). I'm always happy to help!
+I'm actively sharing my knowledge and resources on my [Telegram Channel](https://telegram.me/ComputerScienceStudentsClub). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shravanrevanna) and [Instagram](https://www.instagram.com/shravan_revanna). I'm always happy to help!
 
 <div align="center">
 
