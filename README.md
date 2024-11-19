@@ -1,16 +1,16 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">👋 Heyy, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a> </h1>
+<h1 align="center">👋 Hey, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a> </h1>
 
 A bit about myself,
 
-🎓 Currently in my third year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Computer Science with a specialization in AI & ML.
+🎓 Currently in my final-year at **M.S. Ramaiah Institute of Technology**, I'm honing my skills in Computer Science with a specialization in AI & ML.
 
-🔍 My current fascination lies in **Deep Learning**. I'm actively experimenting with **Large Language Models (LLMs)** and am passionate about diving deep into the intricate world of AI and ML.
+🔍 My current fascination lies in **Machine Learning**. I'm actively experimenting with **Large Language Models (LLMs)** and am passionate about diving deep into the intricate world of AI and ML.
 
 🚀 My goal? To explore and contribute to a multitude of AI and ML fields.
 
-<h3 align="center">Full-Stack Web Developer | Generative-AI enthusiast | Love to play with latest AI tools.</h3>
+<h3 align="center">Full-Stack Developer | Generative-AI enthusiast | Love to play with latest AI tools.</h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=myselfshravan&label=Profile%20views&color=6805D3&style=flat" alt="myselfshravan" /> </p></h3>
 
@@ -18,19 +18,21 @@ A bit about myself,
 
 - Programming Languages: Python, C++, Java
 - Web Development: HTML5, CSS3, JavaScript, ReactJS, NextJS, Tailwind CSS
-- Back-End: Node.js, Firebase
-- Design Tools: Figma, Canva
-- Version Control: Git, GitHub
+- AI/ML: Langchain, ChromaDB, PyTorch, Hugging Face, Streamlit, Mesop
+- Back-End: Node.js, Firebase, Django
 - IDE: Visual Studio Code, PyCharm
+- Version Control: Git, GitHub
 
 <div align="center">
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 ---
