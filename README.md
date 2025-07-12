@@ -4,8 +4,8 @@
 
 A bit about myself,
 
-I'm an enthusiastic **AI & Machine Learning** specialist currently finishing my Bachelor's in **Computer Science & Engineering (AI & ML)** at **M.S. Ramaiah Institute of Technology**. Passionate about building impactful AI-driven products, I've worked extensively with **Large Language Models (LLMs)**, **generative AI**, and **full-stack applications**.
-Crossing over 180+ projects all together.
+I'm an enthusiastic **AI & Machine Learning** specialist completed my Bachelor's in **Computer Science & Engineering (AI & ML)** at **M.S. Ramaiah Institute of Technology**. Passionate about building impactful AI-driven products, I've worked extensively with **Large Language Models (LLMs)**, **generative AI**, and **full-stack applications**.
+Crossing over 180+ projects all together. I break things, learn fast, and build cool things. deep into code and cs; anything that pushes the limits. history and curiosity. still chasing mastery.
 
 🔍 I'm actively looking for opportunities in Generative AI Engineering, Software Development, and Product Management.
 
@@ -17,8 +17,7 @@ Crossing over 180+ projects all together.
 
 ### 🎓 Education
 
-* **B.E. Computer Science & Engineering (AI & ML)**, M.S. Ramaiah Institute of Technology (2021-2025, CGPA: 8.81/10)
-
+- **B.E. Computer Science & Engineering (AI & ML)**, M.S. Ramaiah Institute of Technology (2021-2025, CGPA: 8.81/10)
 
 ## 🚀 Top Skills
 
@@ -36,56 +35,60 @@ Crossing over 180+ projects all together.
 
 ### 🛠 Experience
 
-**Software Development Engineer Intern | [Udaan](https://www.udaan.com)** *(Jan 2025 – Jun 2025)*
+**Software Engineering Intern | [udaanCapital](https://udaancapital.com)** _(Jul 2025 - Sep 2025)_
 
-* Built scalable Kotlin/TypeScript features enhancing Partner, Retail, and MM app workflows.
-* Automated data processes, improving onboarding efficiency by 70%.
-* Engineered robust market-pricing pipelines ensuring 99% uptime.
+- Responsible for developing and maintaining scalable features in Kotlin and TypeScript.
 
-**ML Project Engineer | [CADRE ODR](https://cadreodr.com)** *(Jan 2024 – Mar 2024)*
+**Software Development Engineer Intern | [Udaan](https://www.udaan.com)** _(Jan 2025 – Jun 2025)_
 
-* Developed a real-time grievance redressal (RAG) application using ChromaDB and Mistral 7B & Llama 2 LLMs for user interaction and information extraction.
-* Fine-tuned a BART model on a custom grievance dataset for zero-shot hierarchical classification of government departments. Integrated the classification model with chatbot flow to guide users through a hierarchical grievance path.
+- Built scalable Kotlin/TypeScript features enhancing Partner, Retail, and MM app workflows.
+- Automated data processes, improving onboarding efficiency by 70%.
+- Engineered robust market-pricing pipelines ensuring 99% uptime.
 
-**Machine Learning Intern | [Spritle Software](https://www.spritle.com)** *(Mar 2024 – May 2024)*
+**ML Project Engineer | [CADRE ODR](https://cadreodr.com)** _(Jan 2024 – Mar 2024)_
 
-* Developed image search engine using PyTorch and CLIP, improving accuracy by 85%.
-* Enhanced predictive maintenance systems using advanced ML techniques.
+- Developed a real-time grievance redressal (RAG) application using ChromaDB and Mistral 7B & Llama 2 LLMs for user interaction and information extraction.
+- Fine-tuned a BART model on a custom grievance dataset for zero-shot hierarchical classification of government departments. Integrated the classification model with chatbot flow to guide users through a hierarchical grievance path.
 
-**Generative AI Intern | [NextWealth](https://www.nextwealth.com)** *(Oct 2023 – Jan 2024)*
+**Machine Learning Intern | [Spritle Software](https://www.spritle.com)** _(Mar 2024 – May 2024)_
 
-* Implemented generative AI prototypes, automating repetitive tasks, significantly streamlining operations.
+- Developed image search engine using PyTorch and CLIP, improving accuracy by 85%.
+- Enhanced predictive maintenance systems using advanced ML techniques.
 
-**Full-Stack Developer | Foodingo Pvt. Ltd** *(Jun 2022 – Aug 2023)*
+**Generative AI Intern | [NextWealth](https://www.nextwealth.com)** _(Oct 2023 – Jan 2024)_
 
-* Collaboratively designed and developed the backend architecture.
-* Built a dynamic landing page and admin panel web app with role-based access controls.
-* Leveraged Next.js to implement a responsive and SEO-optimized front-end with authentication and backend using Firebase.
+- Implemented generative AI prototypes, automating repetitive tasks, significantly streamlining operations.
+
+**Full-Stack Developer | Foodingo Pvt. Ltd** _(Jun 2022 – Aug 2023)_
+
+- Collaboratively designed and developed the backend architecture.
+- Built a dynamic landing page and admin panel web app with role-based access controls.
+- Leveraged Next.js to implement a responsive and SEO-optimized front-end with authentication and backend using Firebase.
 
 ---
 
 ### 💻 Projects
 
-* [**NoteRep**](https://noterep.vercel.app): Notes-sharing platform with 85,000+ views.
-* [**FastIQ**](https://fastiq.vercel.app): Playground for developers exploring LLM APIs.
-* [**AI Meal Planner**](https://ai-meal-planner.streamlit.app): Personalized meal recommendations using Llama-3.1.
-* [**Enigma Escape**](https://enigma-escape-bot.streamlit.app): Creative AI-driven text-based puzzle game.
-* [**HDFC Account Explorer**](https://hdfc-account-explorer.vercel.app): Advanced bank statement analysis tool with intelligent categorization.
+- [**NoteRep**](https://noterep.vercel.app): Notes-sharing platform with 85,000+ views.
+- [**FastIQ**](https://fastiq.vercel.app): Playground for developers exploring LLM APIs.
+- [**AI Meal Planner**](https://ai-meal-planner.streamlit.app): Personalized meal recommendations using Llama-3.1.
+- [**Enigma Escape**](https://enigma-escape-bot.streamlit.app): Creative AI-driven text-based puzzle game.
+- [**HDFC Account Explorer**](https://hdfc-account-explorer.vercel.app): Advanced bank statement analysis tool with LLM integrated.
 
 ### 🤖 Fun & Cool Side Projects
 
-* **Naru Noodles Table Booking Automation:** Automated booking script for high-demand Naru Noodles restaurant.
-* **Parimatch WebSocket Scraper & Arbitrage Betting:** Real-time betting odds scraper with arbitrage detection.
-* **NoteRep AI Chatbot:** Lightning-fast AI chatbot powered by Groq AI and Firebase Firestore for seamless interactions and subtle ad integrations.
-* **IPL Ticket Booking Automation:** Python script automating IPL ticket booking process.
-* **DOB Finder SIS:** Brute-force automation to ethically highlight security flaws in college portals.
+- **Naru Noodles Table Booking Automation:** Automated booking script for high-demand Naru Noodles restaurant.
+- **Parimatch WebSocket Scraper & Arbitrage Betting:** Real-time betting odds scraper with arbitrage detection.
+- **NoteRep AI Chatbot:** Lightning-fast AI chatbot powered by Groq AI and Firebase Firestore for seamless interactions and subtle ad integrations.
+- **IPL Ticket Booking Automation:** Python script automating IPL ticket booking process.
+- **DOB Finder SIS:** Brute-force automation to ethically highlight security flaws in college portals.
 
 ---
 
 ### 🏅 Achievements & Certifications
 
-* **Llama 3 Hackathon Certification** *(Aug 2024)*
-* **Google Hash Code 2022 Participant** *(Mar 2022)*
+- **Llama 3 Hackathon Certification** _(Aug 2024)_
+- **Google Hash Code 2022 Participant** _(Mar 2022)_
 
 ---
 
@@ -97,7 +100,6 @@ Let's have a look at some of my noteworthy projects:
 
 1. [My Portfolio Website](https://myselfshravan.github.io): This site is a comprehensive display of my web development expertise, constructed using HTML5, CSS3, JavaScript, and jQuery. It serves as a vibrant showcase of my technical skills and creative design capabilities.
 2. [Websites List](https://myselfshravan.github.io/mywebsites): Here you'll find a portfolio of websites I've crafted, highlighting my versatility and commitment to delivering engaging digital experiences.
-
 
 ## Let's Connect
 
