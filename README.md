@@ -2,40 +2,39 @@
 
 <h1 align="center">👋 Hey, I'm <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"> Shravan </a> </h1>
 
-I build things with code—mostly at the intersection of AI and whatever problem catches my attention. CS grad from MSRIT, now working on ML infrastructure and agentic systems at Graphene AI.
+Problem solver. Builder. I ship things every single day.
 
-180+ projects in and still going. I break things, learn fast, ship faster. Deep into LLMs, generative AI, and full-stack development. History nerd and perpetually curious. Still chasing mastery.
+180+ projects/random things i built and counting. CS'25 grad from MSRIT, been shipping code since day one. Deep into LLMs, agentic systems, and full-stack development. I move fast, learn faster, and don't stop until it works.
 
-<h3 align="center">ML Engineer | Full-Stack Dev | Building with LLMs</h3>
+<h3 align="center"> Engineer | Full-Stack Dev | AI/ML</h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=myselfshravan&label=Profile%20views&color=6805D3&style=flat" alt="myselfshravan" /> </p></h3>
 
 ### 🎓 Education
 
-- **B.E. Computer Science & Engineering (AI & ML)**, M.S. Ramaiah Institute of Technology (2021-2025, CGPA: 8.81/10)
+- **B.E. Computer Science & Engineering (AI & ML)**, M.S. Ramaiah Institute of Technology (2021-2025, CGPA: 8.81/10) [cgpa does not matter lol]
 
 ## 🚀 Stack
 
 **Languages:** Python, Kotlin, TypeScript, Java
 **Web:** React, Next.js, Node.js, Tailwind
-**AI/ML:** LangChain, LlamaIndex, PyTorch, Hugging Face, ChromaDB, RAG
-**Agents:** CrewAI, AutoGPT, BabyAGI
+**AI/ML:** LangChain, LlamaIndex, ChromaDB, RAG
 **Infra:** AWS, Azure, Firebase, Docker, Vercel
 
 ---
 
 ### 🛠 Experience
 
-**Machine Learning Engineer | [Graphene AI](https://graphene.ai)** _(Current)_
+**Machine Learning Engineer | [Graphene AI](https://graphene.ai)** _(Oct 2025 – Dec 2025)_
 
-- Architecting and restructuring microservices for high-availability operational and analytical workflows.
-- Building in-house AI systems that automate core business processes and enable gen-ai adoption across teams.
-- Designing agentic AI pipelines for LLM evaluation and deployment within a distributed service architecture.
-- Built a deploy console to manage service deployments and maintain LiteLLM (reverse proxy) service.
+- Architected and restructured microservices for high-availability operational and analytical workflows.
+- Built in-house AI systems that automated core business processes and enabled gen-ai adoption across teams.
+- Designed agentic AI pipelines for LLM evaluation and deployment within a distributed service architecture.
+- Built a deploy console to manage service deployments and maintained LiteLLM (reverse proxy) service.
 
 **Software Engineering Intern | [udaanCapital](https://udaancapital.com)** _(Jul 2025 - Sep 2025)_
 
-- Developing and maintaining scalable features in Kotlin and TypeScript.
+- Develped and maintained scalable features in Kotlin and TypeScript.
 
 **Software Development Engineer Intern | [Udaan](https://www.udaan.com)** _(Jan 2025 – Jun 2025)_
 
@@ -92,7 +91,7 @@ I build things with code—mostly at the intersection of AI and whatever problem
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/shravanrevanna) · [Instagram](https://www.instagram.com/shravan_revanna) · [Telegram](https://telegram.me/ComputerScienceStudentsClub)
+[LinkedIn](https://www.linkedin.com/in/shravanrevanna) · [Instagram](https://www.instagram.com/shravan_revanna)
 
 <div align="center">
 
