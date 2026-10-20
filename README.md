@@ -10,12 +10,14 @@ I build AI agents that don't just answer, they act: in US healthcare, on the sto
 
 By day I ship **CareOS** at Confido Health, AI agents running the front office for 3,200+ US providers and reaching 1 in 50 Americans. By night I hand six AI agents a ₹10L portfolio and let them fight over every trade, put AI in the pilot seat of a DJI drone, and reverse-engineer cameras and smart bulbs into robots.
 
-I ship things every single day. 180+ projects and counting, from zero-to-one consumer apps to production agent systems.
+I ship things every single day. 300+ projects and counting, from zero-to-one consumer apps to production agent systems, and every one of them is mapped in [**Atlas**](https://atlas.shravanrevanna.me/#/universe).
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=myselfshravan&label=Profile%20views&color=6805D3&style=flat" alt="myselfshravan" /> </p></h3>
 
 ### ⚡ Highlights
 
+- **[Atlas](https://atlas.shravanrevanna.me/#/universe):** every project I've ever shipped, as an explorable 3D universe. 347 projects, 1.17M lines of code and 4,979 commits from 2021 to 2026, orbiting a ray-traced black hole.
+- **sudo-trade:** six AI agents fight bull vs bear over every trade. Dropped into the March 2026 crash with a ₹10L book, they turned it into ₹23.66L in 10 days, for $0.87 a day.
 - **Klydo, zero to one:** built to ₹15.65 Cr GMV and 87K users. My AI fraud agent, **Sherlock**, auto-decides 58% of credit orders and has blocked ₹5.20 L of fraud at 100% precision.
 - **NoteRep:** the go-to study platform for 2,000+ students, with 95K+ views and ~50K Google impressions.
 - **Latest:** pointed an AI agent at my portfolio's PostHog analytics. It found 417 real visitors across 30 timezones, unmasked 63 headless bots, and shipped 9 fixes, including one for a proxy that was hiding every visitor's real location. Write-up coming soon.
@@ -75,6 +77,7 @@ I ship things every single day. 180+ projects and counting, from zero-to-one con
 
 ### 🤖 Agents & Hardware Hacks
 
+- [**Atlas**](https://atlas.shravanrevanna.me/#/universe): Every project I've ever built, indexed and turned into a 3D universe. Zoom from the cosmos into galaxies of work, into star systems where each project's languages orbit as planets, down to code cities where every file is a tower. A time machine replays 2021 to now. 347 projects, 1.17M lines of code, 28K symbols, 248 endpoints.
 - [**sudo-trade**](https://blog.shravanrevanna.me/6-autonomous-ai-agents-trade-stocks-with-my-money-in-realtime): Six AI agents that argue bull vs bear before every trade, then pull the trigger. Dropped into the March 2026 crash with a ₹10L book, they turned it into ₹23.66L in 10 days. Live market data, paper fills, $0.87 a day.
 - [**DroneMind**](https://github.com/myselfshravan/dronemind): Turns a stock DJI Mini 3 into an AI agent. It sees through live RTMP video, detects and tracks objects with YOLO, plans with AI, and flies through DJI Virtual Stick. ([story](https://blog.shravanrevanna.me/dji-mini-3-ai-autonomous-drone))
 - [**Xiaomi Camera Robot**](https://blog.shravanrevanna.me/reverse-engineering-a-xiaomi-camera-into-a-self-tracking-robot): A sealed Xiaomi camera reverse-engineered into a self-tracking robot on stock firmware, with no flashing and no cloud. It follows a person, a named object, or any box you drag on the frame.
@@ -101,7 +104,7 @@ I ship things every single day. 180+ projects and counting, from zero-to-one con
 - [**Calculla**](https://gpaestimator.streamlit.app): A GPA predictor with 800+ logins.
 - [**FastIQ**](https://fastiq.vercel.app): A multi-API LLM playground with community prompt templates.
 
-**More:** [All my websites](https://myselfshravan.github.io/mywebsites)
+**More:** [Fly through all 300+ in Atlas](https://atlas.shravanrevanna.me/#/universe) | [All my websites](https://myselfshravan.github.io/mywebsites)
 
 ---
 
@@ -109,8 +112,8 @@ I ship things every single day. 180+ projects and counting, from zero-to-one con
 
 Featured posts from [blog.shravanrevanna.me](https://blog.shravanrevanna.me):
 
-- [Reverse-Engineering a Xiaomi Camera Into a Self-Tracking Robot](https://blog.shravanrevanna.me/reverse-engineering-a-xiaomi-camera-into-a-self-tracking-robot)
 - [6 AI Agents Ran a Hedge Fund for $0.87 a Day. ₹10 Lakh Became ₹23.66 Lakh in 10 Days.](https://blog.shravanrevanna.me/6-autonomous-ai-agents-trade-stocks-with-my-money-in-realtime)
+- [Reverse-Engineering a Xiaomi Camera Into a Self-Tracking Robot](https://blog.shravanrevanna.me/reverse-engineering-a-xiaomi-camera-into-a-self-tracking-robot)
 - [I Built a Chrome Dino Game Environment for Humans, and Agents](https://blog.shravanrevanna.me/chrome-dino-game-environment)
 - [Building an AI Pipeline That Lets a DJI Mini 3 Fly Itself](https://blog.shravanrevanna.me/dji-mini-3-ai-autonomous-drone)
 - [How I Hacked My Smart Lights to Sync with Music, Video and My Stock Portfolio](https://blog.shravanrevanna.me/i-hacked-my-smart-lights-and-things-got-way-out-of-hand)
@@ -190,6 +193,7 @@ Featured posts from [blog.shravanrevanna.me](https://blog.shravanrevanna.me):
 
 <div align="center">
 <a href="https://shravanrevanna.me?s=github" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6805D3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://atlas.shravanrevanna.me/#/universe" target="_blank"><img alt="Atlas" src="https://img.shields.io/badge/Atlas-0B0D17?style=for-the-badge&logo=three.js&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shravanrevanna" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/myselfshravan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/myselfshravan" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
