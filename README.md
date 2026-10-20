@@ -8,7 +8,7 @@
 
 I build AI agents that don't just answer, they act: in US healthcare, on the stock market, and inside hardware that was never meant to be hacked.
 
-By day I ship **CareOS** at Confido Health, AI agents running the front office for 3,200+ US providers and reaching 1 in 50 Americans. By night I give real money to trading agents, put AI in the pilot seat of a DJI drone, and reverse-engineer cameras and smart bulbs into robots.
+By day I ship **CareOS** at Confido Health, AI agents running the front office for 3,200+ US providers and reaching 1 in 50 Americans. By night I hand six AI agents a ₹10L portfolio and let them fight over every trade, put AI in the pilot seat of a DJI drone, and reverse-engineer cameras and smart bulbs into robots.
 
 I ship things every single day. 180+ projects and counting, from zero-to-one consumer apps to production agent systems.
 
@@ -75,7 +75,7 @@ I ship things every single day. 180+ projects and counting, from zero-to-one con
 
 ### 🤖 Agents & Hardware Hacks
 
-- [**sudo-trade**](https://blog.shravanrevanna.me/6-autonomous-ai-agents-trade-stocks-with-my-money-in-realtime): Six AI agents that research, debate and trade Indian stocks with real money on their own. A bull agent and a bear agent argue every position before the system commits. 483 debates, 148+ trades, all for $0.87 a day.
+- [**sudo-trade**](https://blog.shravanrevanna.me/6-autonomous-ai-agents-trade-stocks-with-my-money-in-realtime): Six AI agents that argue bull vs bear before every trade, then pull the trigger. Dropped into the March 2026 crash with a ₹10L book, they turned it into ₹23.66L in 10 days. Live market data, paper fills, $0.87 a day.
 - [**DroneMind**](https://github.com/myselfshravan/dronemind): Turns a stock DJI Mini 3 into an AI agent. It sees through live RTMP video, detects and tracks objects with YOLO, plans with AI, and flies through DJI Virtual Stick. ([story](https://blog.shravanrevanna.me/dji-mini-3-ai-autonomous-drone))
 - [**Xiaomi Camera Robot**](https://blog.shravanrevanna.me/reverse-engineering-a-xiaomi-camera-into-a-self-tracking-robot): A sealed Xiaomi camera reverse-engineered into a self-tracking robot on stock firmware, with no flashing and no cloud. It follows a person, a named object, or any box you drag on the frame.
 - [**Wiz-Hack**](https://github.com/myselfshravan/wiz-hack): Took over Philips Wiz bulbs through their raw UDP API and turned them into a music visualizer, a DIY Ambilight (~93ms sync) and a live stock-market ticker. It earned me official Groww API access. ([story](https://blog.shravanrevanna.me/i-hacked-my-smart-lights-and-things-got-way-out-of-hand))
@@ -110,7 +110,7 @@ I ship things every single day. 180+ projects and counting, from zero-to-one con
 Featured posts from [blog.shravanrevanna.me](https://blog.shravanrevanna.me):
 
 - [Reverse-Engineering a Xiaomi Camera Into a Self-Tracking Robot](https://blog.shravanrevanna.me/reverse-engineering-a-xiaomi-camera-into-a-self-tracking-robot)
-- [My 6 AI Trading Agents Turned ₹10L into ₹23L in Just 1 Week](https://blog.shravanrevanna.me/6-autonomous-ai-agents-trade-stocks-with-my-money-in-realtime)
+- [6 AI Agents Ran a Hedge Fund for $0.87 a Day. ₹10 Lakh Became ₹23.66 Lakh in 10 Days.](https://blog.shravanrevanna.me/6-autonomous-ai-agents-trade-stocks-with-my-money-in-realtime)
 - [I Built a Chrome Dino Game Environment for Humans, and Agents](https://blog.shravanrevanna.me/chrome-dino-game-environment)
 - [Building an AI Pipeline That Lets a DJI Mini 3 Fly Itself](https://blog.shravanrevanna.me/dji-mini-3-ai-autonomous-drone)
 - [How I Hacked My Smart Lights to Sync with Music, Video and My Stock Portfolio](https://blog.shravanrevanna.me/i-hacked-my-smart-lights-and-things-got-way-out-of-hand)
